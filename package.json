@@ -15,8 +15,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "create-http-error": "^1.0.3",
     "express": "^4.17.1",
     "express-list-endpoints": "^6.0.0",
+    "http-errors": "^1.8.0",
     "mongoose": "^6.0.12"
   },
   "devDependencies": {
